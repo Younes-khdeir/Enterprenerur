@@ -1,0 +1,12 @@
+<!--  
+<p class="font-weight-bold">
+						<span class="text-warning">Entrepreneur >--</span>
+						<span class="text-danger"> Problem..</span>
+						<span class="text-success">Idea..</span>
+						<span class="text-danger">Risk..</span>
+						<span class="text-info">Solution..</span>
+						<span class="text-primary">Innovation..</span> 
+					</P>
+
+
+-->
